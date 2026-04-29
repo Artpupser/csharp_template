@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Artpupser/PassGen/blob/main/assets/preview1.jpg" style="border-radius: 20px;">
+<img src="https://github.com/Artpupser/template/blob/main/assets/preview1.jpg" style="border-radius: 20px;">
 
 </div>
 
