@@ -1,12 +1,12 @@
 ﻿<div align="center">
 
-# 📝 PassGen
+# 📝 Template
 
 ![Template](https://img.shields.io/badge/template-black?style=for-the-badge&logo=template&logoColor=white)
 ![License](https://img.shields.io/badge/MIT-black?style=for-the-badge)
 
 <!-- ![.NET](https://img.shields.io/badge/.NET-10.0-blue?style=for-the-badge) -->
-<!-- ![.Version](https://img.shields.io/github/v/release/Artpupser/PassGen?style=for-the-badge) -->
+<!-- ![.Version](https://img.shields.io/github/v/release/Artpupser/Template?style=for-the-badge) -->
 
 
 #### [Template](https://github.com/Artpupser/template) is template for other github repo. 🎯
